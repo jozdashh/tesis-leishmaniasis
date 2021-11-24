@@ -1,7 +1,7 @@
 # tesis-leishmaniasis
 Experimentos e Implementación de Algoritmos en Python y Jupyter de mi Tesis en la Javeriana Cali 2021-2 con título "**Predicción del tratamiento para la leishmaniasis cutánea mediante datos génicos e inferencia gramatical**".
 
-![Automatas](foto.png)
+![Automatas](foto.jpg)
 
 # Objetivo
 Predecir la efectividad del tratamiento con Glucantime para la leishmaniasis cutánea empleando técnicas de inferencia gramatical con base en los datos génicos de pacientes.
