@@ -32,4 +32,4 @@ Usar pip/pip3 o equivalente para instalar paquetes.
 - En `oilnsym-codigo/` está el codigo fuente y Makefile correspondiente para compilar el algoritmo OIL implementado en C++.
 - `oilnsym` es un archivo binario, debe marcarse como ejecutable para que el wrapper OIL.py pueda utilizarlo.
 - Las funciones en `RPNI.py` y `utilities.py` cuentan con documentación sobre sus entradas y salidas.
-- Los archivos de excel o conjuntos de datos no están incluidos ya que son informacion confidencial. De tener acceso a estos, crear carpeta `data/`, agregarlos a esta y actualizar las rutas que importan los mismo en los cuadernos de Jupyter para usarlos.
+- Los archivos de excel o conjuntos de datos no están incluidos ya que son informacion confidencial. De tener acceso a estos, crear carpeta `data/`, agregarlos a esta, y actualizar las rutas que importan los mismos en los cuadernos de Jupyter.
