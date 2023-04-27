@@ -1,5 +1,5 @@
 # tesis-leishmaniasis
-Experimentos e Implementación de Algoritmos en Python y Jupyter de mi Tesis en la Javeriana Cali 2021-2 con título "**Predicción del tratamiento para la leishmaniasis cutánea mediante datos génicos e inferencia gramatical**".
+Experimentos e Implementación de Algoritmos en Python y Jupyter de mi Tesis con título "**Predicción del tratamiento para la leishmaniasis cutánea mediante datos génicos e inferencia gramatical**".
 
 ![Automatas](foto.jpg)
 
